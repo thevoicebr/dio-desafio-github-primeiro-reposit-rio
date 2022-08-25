@@ -1,0 +1,5 @@
+download terminal git
+
+https://git-scm.com/downloads
+
+pra todas as plataformas 
