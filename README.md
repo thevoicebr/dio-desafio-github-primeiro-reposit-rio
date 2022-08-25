@@ -2,4 +2,4 @@
 repositório proposto pela DIO sobre Git/Github
 
 ##links úteis
-(síntaxe básica markdown) https://www.markdownguide.org/basic-syntax/
+[síntaxe básica markdown) (https://www.markdownguide.org/basic-syntax/)
